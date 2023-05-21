@@ -30,12 +30,6 @@ mnist_get_data.sh
 ```
 
 
-* Tests:
-
-```
-python run_tests.py
-```
-
 This assignment requires the following files from the previous assignments. You can get these by running
 
 ```bash
