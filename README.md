@@ -4,7 +4,7 @@
 
 This project is built for the practice of 3D scanning and printing.
 
-I use following softwares and tools...
+I use following softwares and tools:
 
 Editing softwares: Autodesk Fusion 360, Unity, Blender.
 
