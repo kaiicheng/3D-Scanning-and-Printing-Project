@@ -19,7 +19,7 @@ Editing softwares: Autodesk Fusion 360, Unity, Blender.
 
 - Scanned model with 3D scanning tools (Structure SDK (iOS), Scaniverse).
 
-- Edited and made modifications of scanned 3D models using editing softwares (Autodesk Fusion 360, Unity, Blender).
+- Made modifications of scanned 3D models using editing softwares (Autodesk Fusion 360, Unity, Blender).
 
 - Printed with 3D printing tools (UltiMaker Cura, Pursa).
 
