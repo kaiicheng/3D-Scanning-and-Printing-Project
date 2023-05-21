@@ -4,7 +4,11 @@
 
 This project is built for the practice of 3D scanning and printing.
 
-The object is little yellow rubber duck.
+Editing tools: Autodesk Fusion 360, Unity, Blender.
+
+3D scanning tools: Structure SDK (iOS), Scaniverse.
+
+3D printing tools: UltiMaker Cura, Pursa.
 
 
 ## Descriptions 
