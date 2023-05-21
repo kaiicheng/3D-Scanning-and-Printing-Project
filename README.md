@@ -2,9 +2,10 @@
 
 # 3D-Scanning-and-Printing-Project
 
-This project is a practice of 3D scanning and printing . 
+This project is the practice of 3D scanning and printing.
 
-Instructed by Professor Sasha Rush at Cornell Tech.
+The object is little yellow rubber duck.
+
 
 ## Descriptions 
 
