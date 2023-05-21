@@ -1,14 +1,8 @@
+<img src="./rubber duck.jpg" width="50%">
+
 # 3D-Scanning-and-Printing-Project
 
-# MiniTorch
-
-*from minitorch page*
-
-* Docs: https://minitorch.github.io/
-
-* Overview: https://minitorch.github.io/module4.html
-
-This project is an re-implemented version of PyTorch at the Machine Learning Engineering Course project [minitorch](https://minitorch.github.io/). 
+This project is a practice of 3D scanning and printing . 
 
 Instructed by Professor Sasha Rush at Cornell Tech.
 
