@@ -21,7 +21,7 @@ Editing softwares: Autodesk Fusion 360, Unity, Blender.
 
 - Visualized with Streamlit and tested functions using pytest and Flake8.
 
-## Overview
+<!-- ## Overview
 
 This module requires `fast_ops.py`, `cuda_ops.py`, `scalar.py`, `tensor_functions.py`, `tensor_data.py`, `tensor_ops.py`, `operators.py`, `module.py`, and `autodiff.py` from Module 3.
 
@@ -40,4 +40,4 @@ This assignment requires the following files from the previous assignments. You 
 
 ```bash
 python sync_previous_module.py previous-module-dir current-module-dir
-```
+``` -->
