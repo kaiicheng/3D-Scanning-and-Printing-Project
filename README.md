@@ -2,7 +2,7 @@
 
 # 3D-Scanning-and-Printing-Project
 
-This project is built for the practice of 3D scanning and printing.
+This project is built for the practice of 3D scanning, model-editing, and printing.
 
 I use following softwares and tools:
 
