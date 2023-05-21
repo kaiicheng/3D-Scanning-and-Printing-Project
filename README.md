@@ -15,11 +15,13 @@ Editing softwares: Autodesk Fusion 360, Unity, Blender.
 
 ## Descriptions 
 
-- Constructed a deep learning system using Python, including auto-differentiation, backpropagation, and tensor matrix operations.
+- Built the little yellow rubber duck model with clay.
 
-- Implemented parallel computing with Numba and CUDA.
+- Scanned model with 3D scanning tools (Structure SDK (iOS), Scaniverse).
 
-- Visualized with Streamlit and tested functions using pytest and Flake8.
+- Edited and made modifications of scanned 3D models using editing softwares (Autodesk Fusion 360, Unity, Blender).
+
+- Printed with 3D printing tools (UltiMaker Cura, Pursa).
 
 <!-- ## Overview
 
